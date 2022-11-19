@@ -22,6 +22,10 @@ public class MatrixExample {
             System.out.println();
         }
         System.out.println("Done");
+
+        System.out.println("Hello from me");
+        System.out.println("Hello from me");
+        System.out.println("Hello from Yusupov Fayzullo ");
     }
 }
 
